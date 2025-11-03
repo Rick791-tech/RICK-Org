@@ -1,0 +1,5 @@
+{
+  "name": "CipherCraft Studio",
+  "description": "An elegant and versatile cryptographic tool for encoding and decoding messages using a vast library of ciphers, designed for extensibility and collaboration.",
+  "requestFramePermissions": []
+}
